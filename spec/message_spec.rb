@@ -9,7 +9,7 @@ describe Translatbot do
 
   describe '#translat_word' do
     it 'when a word translate' do
-      expect(logic1.transform_values).to match(Enumerator)
+      expect(logic1.transform_values).to match(en)
     end
     it 'unknown word' do
       expect(logic2.transform_values).to match(Enumerator)

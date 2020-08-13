@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 require_relative '../lib/message.rb'
-require_relative '../lib/translater'
+
 
 puts '**************************************'
 puts '       Welcome  to Translator bot'
