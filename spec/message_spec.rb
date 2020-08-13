@@ -2,7 +2,7 @@ require_relative '../lib/message.rb'
 
 describe Translatbot do
   let(:translate) { Translatbot.new }
-  let(:word) { 'hello' }
+  let(:word) { 'helloo' }
   let(:unknown) { String }
   let(:logic1) { Word.api_translate(word) }
   let(:logic2) { Word.api_translate(unknown) }
