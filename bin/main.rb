@@ -1,8 +1,8 @@
 # A file which has a shebang line as its first line is
 # granted execute permission.
 
-#!/usr/bin/env ruby
-require_relative "../lib/message.rb"
+# !/usr/bin/env ruby
+require_relative '../lib/message.rb'
 
 puts '**************************************'
 puts '       Welcome  to Translator bot'
