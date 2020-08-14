@@ -51,13 +51,12 @@ In order to do so, Please read this ruby installation [documentation](https://ww
 
 4- Copy the code in env_file.txt 
 
-5- Run gem install telegram-bot-ruby
 
-6- If you want a new token go to your telegram account and search for @BotFather. Press start and send the command /newbot. You will get a reply with all your bots information including your TOKEN in it. In our case, you don't need to create a new token you can simply search  for @FloresFF_bot in telegram app 
+5- If you want a new token go to your telegram account and search for @BotFather. Press start and send the command /newbot. You will get a reply with all your bots information including your TOKEN in it. In our case, you don't need to create a new token you can simply search  for @FloresFF_bot in telegram app 
 
 ![screenshot](img/Token.PNG) 
 
-7- Run bundle -> To install all gems
+6- Run bundle -> To install all gems
 
 
 ## Start the bot 
