@@ -2,7 +2,6 @@ require 'telegram/bot'
 require_relative 'modules/config'
 require_relative '../lib/translater'
 
-
 class Translatbot
   attr_reader :message, :bot
   def initialize
