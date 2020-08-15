@@ -17,7 +17,7 @@ This is Telegram_bot on [telegrame-messenger](https://telegram.org/) with the na
 
 ## The repository link in repl.it
 
-[Live Repo Link](https://repl.it/@RazikaRahal/telegramebot-1#bin/main.rb)
+[Live Repo Link](https://repl.it/@RazikaRahal/telegramebot#README.md)
 
 ## How to Find the bot 
 
